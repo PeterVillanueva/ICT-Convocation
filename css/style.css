@@ -173,7 +173,7 @@ body.menu-open {
     width: 1.8rem;
     height: 2.2rem;
     cursor: pointer;
-    left: 3.5rem;
+    left: 2.5rem;
     top: 50%;
     margin-top: -1.1rem;
     mix-blend-mode: difference;
@@ -989,7 +989,7 @@ body.menu-open {
 ------------------------------------*/
 
 .clients-section {
-    background-color: #fff;
+    background-color: #78a1af;
     text-align: left;
     padding: 10rem 10rem 3rem;
 }
@@ -1002,8 +1002,8 @@ body.menu-open {
 
 .clients-section p {
     color: rgba(0, 0, 0, 0.66);
-    font-size: 1.26rem;
-    line-height: 2.5rem;
+    font-size: 4.26rem;
+    line-height: 4.5rem;
 }
 
 .clients-section .normal-text {
